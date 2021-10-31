@@ -1,0 +1,33 @@
+body {
+    background-image: url(gambar1.PNG);
+    width: 500px;
+    margin: 20px auto;
+    color: white;
+}
+
+.header li {
+    list-style: none;
+    float: left;
+    margin-right: 0px;
+    position:
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.header,
+.content,
+.footer {
+    width: 600px;
+    overflow: hidden;
+    margin: 10px;
+}
+.footer a {
+    text-decoration: none;
+    color: rgb(190, 188, 188);
+    font-weight: 100;
+}
