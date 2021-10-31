@@ -1,0 +1,19 @@
+body{
+    background: rgb(245, 243, 243);
+    color: rgb(8, 7, 7);
+    font-family: 'Georgia';
+    font-size: 15px;
+}
+
+#wrapper{
+    background: rgb(248, 248, 248);
+    width: 1100px;
+    margin: 20px auto;
+}
+
+#wrapper fieldset{
+    background: rgb(236, 209, 190);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 10;
+
+}
